@@ -1,0 +1,7 @@
+COMMANDS TO RUN :
+
+1.	CS677_Rajkurki_project.ipynb : Run through Jupyter notebook.
+
+2.	C:\Users\User\PycharmProjects\StreamLit_ModelAPI : 
+Streamlit webapp using streamlit package. 
+COMMAND TO RUN => C:\BOSTON_UNIVERSITY\AppliedDataAnalytics\Python_CS677_DataScience\Assignment\Project\rajkurki_hw_project\StreamLit_ModelAPI> python -m streamlit run bankmarketing.py
